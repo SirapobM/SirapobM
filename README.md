@@ -1,5 +1,4 @@
 # Hi 👋, I'm Sirapob
-# Developer from Thailand.
 
 <img src="https://komarev.com/ghpvc/?username=sirapobm&label=Profile%20views&color=000000&style=plastic" alt="sirapobm" />
 
